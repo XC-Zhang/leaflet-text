@@ -1,0 +1,15 @@
+{
+  "name": "leaflet-text",
+  "version": "1.0.0",
+  "description": "A extension to Leaflet that renders text as vector layers.",
+  "main": "leaflet-text.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XC-Zhang/leaflet-text.git"
+  }
+}
