@@ -1,6 +1,6 @@
 {
   "name": "leaflet-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A extension to Leaflet that renders text as vector layers.",
   "main": "leaflet-text.js",
   "scripts": {

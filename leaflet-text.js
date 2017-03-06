@@ -52,7 +52,7 @@
 
             if (L.Text && layer instanceof L.Text) {
                 path = layer._path = L.SVG.create("text");
-                path.textContext = layer._text;
+                path.textContent = layer._text;
             } else {
                 path = layer._path = L.SVG.create("path");
             }
